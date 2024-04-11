@@ -1,0 +1,2 @@
+LeGO-LOAM/LeGO-LOAM:LeGO-LOAM/cloud_msgs
+-DCATKIN_DEVEL_PREFIX=/home/user/share/LeGO-LOAM-Noetic/devel -DCMAKE_INSTALL_PREFIX=/home/user/share/LeGO-LOAM-Noetic/install -G Unix Makefiles
